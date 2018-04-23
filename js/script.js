@@ -121,7 +121,7 @@ var oneStep = function(i,j,me){
 	else
 	{
 		gradient.addColorStop(0,"#D1D1D1");
-		gradient.addColorStop(1,"#F9F9F9");
+		gradient.addColorStop(1,"#D9D9D9");
 	}
 
 	context.fillStyle = gradient;
